@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm João Alves, a master's student in Data Engine
 ---
 
 ## About Me
-- Exploring the intersections of **machine learning**, **data engineering**, and **data mining**.
 - Currently deep-diving into **SQL/NoSQL**, **Data Warehousing**, **Big Data**, and **Azure**.
 - Master's student in **Computer Engineering**, specialized in Data Engineering, with hands-on experience in academic and personal projects.
 
