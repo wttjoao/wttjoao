@@ -12,6 +12,10 @@ Welcome to my GitHub profile! I'm João Alves, a master's student in Data Engine
 ## 🚀 Featured Projects
 Here are some of my best projects showcasing my technical skills and problem-solving approach:
 
+### 1. Hotel Booking Model Developing
+- **Description**: This project aims to develop predictive models to determine whether hotel clients will cancel their bookings. By analyzing various factors such as booking lead time, customer type, and market segment, we aim to uncover patterns and insights that can help hotels reduce losses caused by booking cancellations.
+- **Technologies**: Pandas, Numpy, Scipy, Seabonr, Scikit-learn
+- **Link**: [hotel-booking-model-developing](#)
 
 ---
 
