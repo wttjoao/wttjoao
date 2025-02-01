@@ -17,6 +17,10 @@ Here are some of my best projects showcasing my technical skills and problem-sol
 - **Technologies**: Pandas, Numpy, Scipy, Seaborn, Scikit-learn
 - **Link**: [hotel-booking-model-developing](https://github.com/wttjoao/hotel-booking-model-developing)
 
+### 2. Python Sales Data Pipeline
+- **Description**:
+- **Technologies**: Pandas, PostgreSQL, PowerBI
+- **Link**: [python-sales-data-pipeline](https://github.com/wttjoao/python-sales-data-pipeline)
 ---
 
 ## Skills & Technologies
