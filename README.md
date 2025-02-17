@@ -24,15 +24,7 @@ Here are some of my best projects showcasing my technical skills and problem-sol
 ---
 
 ## Skills & Technologies
-- **Programming Languages**: Python, SQL
-- **ETL/Orchestration**: Apache Airflow, Apache NiFi, dbt
-- **Big Data**: Apache Spark
-- **Streaming**: Apache Kafka, Apache Flink
-- **Cloud Platforms**: Azure
-- **Relational DB**: PostgreSQL, SQL Server
-- **NoSQL**: MongoDB
-- **DevOps & CI/CD**: Docker, Github Actions
-- **Visualization**: Power BI
+
 
 ---
 
